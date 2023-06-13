@@ -1,2 +1,2 @@
 # test
-Hello Odin! :D
+Hello Odin!
